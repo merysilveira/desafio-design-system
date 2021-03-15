@@ -1,0 +1,58 @@
+{
+  "spacing": {
+    "stack": {
+      "quarck": {
+        "value": "4px",
+        "attributes": { "category": "stack", "type": "spacing" }
+      },
+      "nano": {
+        "value": "8px",
+        "attributes": { "category": "stack", "type": "spacing" }
+      },
+      "xxxs": {
+        "value": "16px",
+        "attributes": { "category": "stack", "type": "spacing" }
+      },
+      "xxs": {
+        "value": "24px",
+        "attributes": { "category": "stack", "type": "spacing" }
+      },
+      "xs": {
+        "value": "32px",
+        "attributes": { "category": "stack", "type": "spacing" }
+      },
+      "sm": {
+        "value": "40px",
+        "attributes": { "category": "stack", "type": "spacing" }
+      },
+      "md": {
+        "value": "48px",
+        "attributes": { "category": "stack", "type": "spacing" }
+      },
+      "lg": {
+        "value": "56px",
+        "attributes": { "category": "stack", "type": "spacing" }
+      },
+      "xl": {
+        "value": "64px",
+        "attributes": { "category": "stack", "type": "spacing" }
+      },
+      "xxl": {
+        "value": "80px",
+        "attributes": { "category": "stack", "type": "spacing" }
+      },
+      "xxxl": {
+        "value": "120px",
+        "attributes": { "category": "stack", "type": "spacing" }
+      },
+      "huge": {
+        "value": "160px",
+        "attributes": { "category": "stack", "type": "spacing" }
+      },
+      "giant": {
+        "value": "200px",
+        "attributes": { "category": "stack", "type": "spacing" }
+      }
+    }
+  }
+}

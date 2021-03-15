@@ -1,0 +1,30 @@
+{
+  "spacing": {
+    "inset": {
+      "quarck": {
+        "value": "4px",
+        "attributes": { "category": "inset", "type": "spacing" }
+      },
+      "nano": {
+        "value": "8px",
+        "attributes": { "category": "inset", "type": "spacing" }
+      },
+      "xs": {
+        "value": "16px",
+        "attributes": { "category": "inset", "type": "spacing" }
+      },
+      "sm": {
+        "value": "24px",
+        "attributes": { "category": "inset", "type": "spacing" }
+      },
+      "md": {
+        "value": "32px",
+        "attributes": { "category": "inset", "type": "spacing" }
+      },
+      "lg": {
+        "value": "40px",
+        "attributes": { "category": "inset", "type": "spacing" }
+      }
+    }
+  }
+}

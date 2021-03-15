@@ -1,0 +1,28 @@
+{
+  "color": {
+    "brand": {
+      "primary": {
+        "01": {
+          "value": "#691C07",
+          "attributes": { "category": "color", "type": "brand" }
+        },
+        "02": {
+          "value": "#8F260A",
+          "attributes": { "category": "color", "type": "brand" }
+        },
+        "03": {
+          "value": "#F04E23",
+          "attributes": { "category": "color", "type": "brand" }
+        },
+        "04": {
+          "value": "#FBD1C6",
+          "attributes": { "category": "color", "type": "brand" }
+        },
+        "05": {
+          "value": "#FEF0EC",
+          "attributes": { "category": "color", "type": "brand" }
+        }
+      }
+    }
+  }
+}

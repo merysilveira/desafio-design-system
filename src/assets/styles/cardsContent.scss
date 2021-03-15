@@ -1,0 +1,8 @@
+.cardsContent {
+  background-color: $color-neutral-04;
+  padding: $spacing-squish-xs-stack;
+
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

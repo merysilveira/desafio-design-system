@@ -1,0 +1,15 @@
+.button {
+  background-color: $color-brand-primary-03;
+  border-radius: $border-radius-none;
+  color: $color-neutral-05;
+  cursor: pointer;
+  font-family: $font-family-highlight;
+  font-size: $font-size-sm;
+  font-weight: $font-weight-medium;
+  line-height: $line-height-tight;
+  padding: $spacing-squish-xs-stack;
+
+  &:hover {
+    background-color: $color-brand-primary-02;
+  }
+}

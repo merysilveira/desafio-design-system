@@ -1,0 +1,18 @@
+{
+  "font": {
+    "weight": {
+      "bold": {
+        "value": "700",
+        "attributes": { "category": "weight", "type": "font" }
+      },
+      "medium": {
+        "value": "600",
+        "attributes": { "category": "weight", "type": "font" }
+      },
+      "regular": {
+        "value": "400",
+        "attributes": { "category": "weight", "type": "font" }
+      }
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "border": {
+    "width": {
+      "none": {
+        "value": "0px",
+        "attributes": { "category": "width", "type": "border" }
+      },
+      "hairline": {
+        "value": "1px",
+        "attributes": { "category": "width", "type": "border" }
+      },
+      "thin": {
+        "value": "2px",
+        "attributes": { "category": "width", "type": "border" }
+      },
+      "thick": {
+        "value": "4px",
+        "attributes": { "category": "width", "type": "border" }
+      },
+      "heavy": {
+        "value": "8px",
+        "attributes": { "category": "width", "type": "border" }
+      }
+    }
+  }
+}
