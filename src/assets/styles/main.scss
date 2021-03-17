@@ -4,13 +4,16 @@
   padding: 0;
 }
 
-button {
+.button {
   border: 0;
+  text-decoration: none;
 }
 
+@import 'header.scss';
 @import 'cardsContent.scss';
 @import 'cardContent.scss';
 @import 'shape.scss';
 @import 'heading.scss';
 @import 'paragraph.scss';
 @import 'button.scss';
+@import 'footer.scss';

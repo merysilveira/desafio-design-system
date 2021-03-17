@@ -1,8 +1,10 @@
 .cardsContent {
   background-color: $color-neutral-04;
   padding: $spacing-squish-xs-stack;
+  padding-top: $spacing-stack-md;
 
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  display: grid;
+  gap: 30px;
+  grid-template-columns: repeat(auto-fill, minmax(357px, 1fr));
+  grid-template-rows: masonry;
 }
