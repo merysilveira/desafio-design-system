@@ -1,15 +1,24 @@
-.heading_small {
-  color: $color-neutral-01;
-  font-family: $font-family-highlight;
-  font-size: $font-size-lg;
-  font-weight: $font-weight-bold;
-  line-height: $line-height-distant;
-}
+.heading {
 
-.heading_subtitle {
-  color: $color-neutral-02;
-  font-family: $font-family-highlight;
-  font-size: $font-size-md;
-  font-weight: $font-weight-medium;
-  line-height: $line-height-medium;
+  &_small {
+    color: $color-neutral-01;
+    font-family: $font-family-highlight;
+    font-size: $font-size-lg;
+    font-weight: $font-weight-bold;
+    line-height: $line-height-distant;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  /* &_subtitle {
+    color: $color-neutral-02;
+    font-family: $font-family-highlight;
+    font-size: $font-size-md;
+    font-weight: $font-weight-medium;
+    line-height: $line-height-medium;
+  } */
 }

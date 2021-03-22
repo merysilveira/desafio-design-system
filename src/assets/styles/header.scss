@@ -1,0 +1,15 @@
+header {
+  background-color: $color-brand-primary-04;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .logo {
+    color: $color-neutral-01;
+    font-size: $font-size-xl;
+    font-weight: $font-weight-bold;
+    padding: $spacing-squish-xs-stack;
+    text-transform: uppercase;
+  }
+}

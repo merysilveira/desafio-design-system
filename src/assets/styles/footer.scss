@@ -1,0 +1,12 @@
+footer {
+  background-color: $color-neutral-02;
+  padding: $spacing-squish-xs-stack;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  .copyright {
+    color: $color-neutral-05;
+  }
+}

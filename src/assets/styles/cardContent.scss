@@ -6,26 +6,31 @@
     background-color: $color-brand-primary-05;
   }
 
-  .heading_small {
+  .heading {
     margin-bottom: $spacing-stack-xxxs;
   }
 
-  .heading_subtitle {
+  /* .heading_subtitle {
     margin-bottom: $spacing-stack-xxs;
-  }
+  } */
 
   .image_wrap {
+    border: 1px solid $color-neutral-04;
+    height: 200px;
     margin-bottom: $spacing-stack-xxxs;
+    overflow: hidden;
   
     display: flex;
     align-items: center;
     justify-content: center;
-  }
-  
+
     .image {
       overflow: hidden;
       position: relative;
+      width: 100%;
     }
+  }
+ 
 
   .paragraph {
     margin-bottom: $spacing-stack-sm;
